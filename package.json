@@ -1,0 +1,24 @@
+{
+  "name": "collection-bot",
+  "version": "1.0.0",
+  "description": "Collection bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Walda666/Collection-Bot.git"
+  },
+  "author": "Walda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Walda666/Collection-Bot/issues"
+  },
+  "homepage": "https://github.com/Walda666/Collection-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "mysql": "^2.18.1"
+  }
+}
